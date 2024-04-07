@@ -1,1 +1,1 @@
-# Personal_Blog_Design
+# Personal Blog Design with Figma
